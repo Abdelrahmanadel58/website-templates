@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /eat-restaurant-bootstrap-html5-template /usr/share/nginx/html
+COPY /swifty-business-html5-website-template /usr/share/nginx/html
