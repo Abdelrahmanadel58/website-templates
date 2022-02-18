@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /wow-portfolio-multi-purpose-html5-template /usr/share/nginx/html
+COPY /startbootstrap-sb-admin-2-1.0.5 /usr/share/nginx/html
