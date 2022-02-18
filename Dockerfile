@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /blazer-responsive-html5-coming-soon-template /usr/share/nginx/html
+COPY /wow-portfolio-multi-purpose-html5-template /usr/share/nginx/html
