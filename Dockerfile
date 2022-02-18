@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /swifty-business-html5-website-template /usr/share/nginx/html
+COPY /blazer-responsive-html5-coming-soon-template /usr/share/nginx/html
