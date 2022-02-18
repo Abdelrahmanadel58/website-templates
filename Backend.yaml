@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: abdelrahman58/testlvl1
+        image: abdelrahman58/testlvl2
         ports:
         - containerPort: 80
 ---
