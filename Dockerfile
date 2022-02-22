@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /trendset-coming-soon-responsive-theme /usr/share/nginx/html
+COPY /3-col-portfolio /usr/share/nginx/html
