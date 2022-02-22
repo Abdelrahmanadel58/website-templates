@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /3-col-portfolio /usr/share/nginx/html
+COPY /amaze-photography-bootstrap-html5-template /usr/share/nginx/html
