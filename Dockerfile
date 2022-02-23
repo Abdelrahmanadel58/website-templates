@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY /wedding-bells-free-responsive-html5-template /usr/share/nginx/html
+COPY /trendy-free-bootstrap-responsive-website-template /usr/share/nginx/html
 
