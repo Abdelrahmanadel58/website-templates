@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /amaze-photography-bootstrap-html5-template /usr/share/nginx/html
+COPY /wedding-bells-free-responsive-html5-template /usr/share/nginx/html
